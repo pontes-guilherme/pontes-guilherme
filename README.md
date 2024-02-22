@@ -1,8 +1,9 @@
 
 ## 📖 About Me
+- Software Engineer
 - Back-end software developer
-- 6+ years of experience with web development
-- I'm currently a postgraduate student (Lato Sensu) of Software Engineering
+- IT Analyst
+- 7+ years of experience with web development
 
 ## 🧰 Toolbox
 
